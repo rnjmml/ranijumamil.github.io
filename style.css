@@ -23,7 +23,7 @@ body {
   align-items: center;
   scroll-snap-align: start;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 5px;
 }
 
 h1 {
