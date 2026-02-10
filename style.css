@@ -15,7 +15,7 @@ body {
 }
 
 .page-block {
-  height: 50vh;
+  height: 100vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -23,7 +23,7 @@ body {
   align-items: center;
   scroll-snap-align: start;
   box-sizing: border-box;
-  padding: 5px;
+  padding: 20px;
 }
 
 h1 {
