@@ -124,6 +124,23 @@ video {
   border: none;
 }
 
+.back-link {
+  display: block;         
+  text-align: center;
+  margin-top: 20px;        
+  font-size: 0.9rem;
+  color: #8d6e63;          
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.back-link:hover {
+  color: #4a2c2a;        
+  text-decoration: underline;
+  transform: translateY(-2px); 
+}
+
 .footer-section {
   text-align: center;
   margin-top: 60px;
