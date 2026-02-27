@@ -134,6 +134,16 @@ hr {
   text-align: justify;       
 }
 
+.bio-card2 {
+  background-color: #F6E7B2;    
+  max-width: 800px;             
+  margin: 100px auto;           
+  padding: 50px;                
+  border-radius: 12px;         
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); 
+  text-align: justify;       
+}
+
 .bio-card p {
   max-width: 85%;               
   margin: 20px auto 0;          
