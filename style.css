@@ -125,13 +125,20 @@ hr {
 }
 
 .bio-card2 {
-  background-color: #F6E7B2;    
-  max-width: 800px;             
-  margin: 100px auto;           
-  padding: 50px;                
-  border-radius: 12px;         
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); 
-  text-align: center;       
+  background-color: transparent;
+  max-width: 100%;             
+  margin: 40px auto 10px auto;
+  padding: 20px;                
+  text-align: center;      
+  box-shadow: none;         
+}
+
+.logo-image {
+  width: 250px;         
+  height: auto;        
+  max-width: 80%;          
+  display: inline-block;
+  border-radius: 50%;         
 }
 
 .bio-card1 {
