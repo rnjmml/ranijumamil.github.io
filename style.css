@@ -138,12 +138,12 @@ hr {
     height: auto !important;
 }
 
-.logo-image {
-  width: 450px;         
-  height: auto;        
-  max-width: 80%;          
-  display: inline-block;
-  border-radius: 50%;         
+.logo-letters {
+  width: 450px;   
+  height: auto;    
+  display: block; 
+  margin: 0 auto;  
+  mix-blend-mode: multiply;
 }
 
 .bio-card1 {
