@@ -133,6 +133,11 @@ hr {
   box-shadow: none;         
 }
 
+.bio-card2 img {
+    width: 250px !important;
+    height: auto !important;
+}
+
 .logo-image {
   width: 450px;         
   height: auto;        
