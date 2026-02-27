@@ -21,6 +21,24 @@ html, body {
   font-weight: bold;
 }
 
+.back-link {
+  display: block;         
+  text-align: center;
+  margin-top: 20px;        
+  font-size: 0.9rem;
+  color: #8d6e63;          
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.back-link:hover {
+  color: #4a2c2a;        
+  text-decoration: underline;
+  transform: translateY(-2px); 
+}
+
+
 .main-content {
   max-width: 1100px;
   margin: 0 auto;
@@ -107,21 +125,4 @@ audio {
 .footer-section p {
   color: #4b1515;
   font-weight: bold;
-}
-
-.back-link {
-  display: block;         
-  text-align: center;
-  margin-top: 20px;        
-  font-size: 0.9rem;
-  color: #8d6e63;          
-  text-decoration: none;
-  font-weight: bold;
-  transition: all 0.3s ease;
-}
-
-.back-link:hover {
-  color: #4a2c2a;        
-  text-decoration: underline;
-  transform: translateY(-2px); 
 }
